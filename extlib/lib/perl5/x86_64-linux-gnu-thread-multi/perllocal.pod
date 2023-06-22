@@ -1,0 +1,748 @@
+=head2 Thu Jun 22 03:30:55 2023: C<Module> L<File::ShareDir::Install|File::ShareDir::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:30:57 2023: C<Module> L<ExtUtils::Helpers|ExtUtils::Helpers>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.026>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:30:59 2023: C<Module> L<ExtUtils::Config|ExtUtils::Config>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:00 2023: C<Module> L<ExtUtils::InstallPaths|ExtUtils::InstallPaths>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.012>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:03 2023: C<Module> L<Test::Requires|Test::Requires>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:10 2023: C<Module> L<Test::Needs|Test::Needs>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.002010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:14 2023: C<Module> L<Test::Warnings|Test::Warnings>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.031>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:17 2023: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:17 2023: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.017>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:22 2023: C<Module> L<URI|URI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:24 2023: C<Module> L<Encode::Locale|Encode::Locale>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:26 2023: C<Module> L<LWP::MediaTypes|LWP::MediaTypes>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:28 2023: C<Module> L<B::COW|B::COW>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.007>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:30 2023: C<Module> L<Clone|Clone>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.46>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:33 2023: C<Module> L<Date::Parse|Date::Parse>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:34 2023: C<Module> L<HTTP::Date|HTTP::Date>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:35 2023: C<Module> L<IO::HTML|IO::HTML>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:31:40 2023: C<Module> L<HTTP::Message|HTTP::Message>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.44>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:32:11 2023: C<Module> L<Test::MockTime|Test::MockTime>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:32:14 2023: C<Module> L<Devel::StackTrace|Devel::StackTrace>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:32:18 2023: C<Module> L<Hash::MultiValue|Hash::MultiValue>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:32:19 2023: C<Module> L<Stream::Buffered|Stream::Buffered>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:32:24 2023: C<Module> L<Test::Deep|Test::Deep>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.204>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:32:25 2023: C<Module> L<HTTP::MultiPartParser|HTTP::MultiPartParser>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:32:36 2023: C<Module> L<Cpanel::JSON::XS|Cpanel::JSON::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.36>
+
+=item *
+
+C<EXE_FILES: bin/cpanel_json_xs>
+
+=back
+
+=head2 Thu Jun 22 03:32:37 2023: C<Module> L<JSON::MaybeXS|JSON::MaybeXS>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.004005>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:33:37 2023: C<Module> L<Devel::StackTrace::AsHTML|Devel::StackTrace::AsHTML>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:34:21 2023: C<Module> L<Test::SharedFork|Test::SharedFork>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.35>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:34:51 2023: C<Module> L<Test::TCP|Test::TCP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:35:05 2023: C<Module> L<Filesys::Notify::Simple|Filesys::Notify::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:35:08 2023: C<Module> L<Test::Time|Test::Time>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.092>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:35:11 2023: C<Module> L<Class::Inspector|Class::Inspector>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.36>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:35:13 2023: C<Module> L<File::ShareDir|File::ShareDir>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.118>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jun 22 03:35:38 2023: C<Module> L<Plack|Plack>
+
+=over 4
+
+=item *
+
+C<installed into: /home/admin/Trainings/sed-multiples/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0050>
+
+=item *
+
+C<EXE_FILES: script/plackup>
+
+=back
+
